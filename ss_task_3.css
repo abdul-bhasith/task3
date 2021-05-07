@@ -1,0 +1,11 @@
+.bord{
+    border-style:solid;
+    border-width:thin;
+    width: 26%;
+}
+.right{
+    text-align: right;
+}
+.ash{
+    background:darkgray;
+}
